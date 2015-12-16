@@ -1,0 +1,1 @@
+/Users/joelazoulay/Documents/Programming/SideProjects/sudo-monkey/tmp/funnel-input_base_path-COFTfEhS.tmp/0/bower_components/ember-cli-test-loader/test-loader.js
